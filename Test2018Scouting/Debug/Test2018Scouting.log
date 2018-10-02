@@ -1,0 +1,9 @@
+﻿  main.cpp
+main.cpp(135): warning C4244: 'argument': conversion from 'unsigned int' to 'float', possible loss of data
+main.cpp(44): warning C4101: 'tempClimb': unreferenced local variable
+main.cpp(46): warning C4101: 'tempInt': unreferenced local variable
+c:\users\298th\desktop\test2018scouting\test2018scouting\team.h(168): warning C4715: 'Team::getAutonSwitchStr': not all control paths return a value
+c:\users\298th\desktop\test2018scouting\test2018scouting\team.h(178): warning C4715: 'Team::getAutonScaleStr': not all control paths return a value
+c:\users\298th\desktop\test2018scouting\test2018scouting\team.h(205): warning C4715: 'Team::getClimbStr': not all control paths return a value
+c:\users\298th\desktop\test2018scouting\test2018scouting\database.h(58): warning C4715: 'Database::getNextMatch': not all control paths return a value
+  Test2018Scouting.vcxproj -> C:\Users\298th\Desktop\Test2018Scouting\Debug\Test2018Scouting.exe
